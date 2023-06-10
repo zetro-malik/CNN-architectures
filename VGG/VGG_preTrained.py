@@ -5,7 +5,7 @@ from keras.applications.vgg16 import VGG16, preprocess_input
 from keras_preprocessing.image import load_img, img_to_array
 
 # Set the path to your dataset
-dataset_path = 'face_images'
+dataset_path = r'Vegetable Images\train'
 
 # Load the pre-trained VGG16 model without the top layers
 base_model = VGG16(weights='imagenet', include_top=False)
