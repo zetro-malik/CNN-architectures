@@ -14,27 +14,38 @@ The dataset used for training and testing these models can be found at the follo
 - Architecture: VGG
 
 ### Model 2
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/ResNet/Untitled.png)
+
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/ResNet/Untitled.png" alt="drawing" width="300"/>
+
 
 - Architecture: ResNet
   
 - ### Model 3
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/MobileNet/Untitled.png)
+
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/MobileNet/Untitled.png" alt="drawing" width="300"/>
+
+
 
 - Architecture: MobileNet
   
 - ### Model 4
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/GoogleNet/Untitled.png)
+
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/GoogleNet/Untitled.png" alt="drawing" width="300"/>
+
 
 - Architecture: GoogleNet
   
 - ### Model 5
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/EfficientNet/Untitled.png)
+
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/EfficientNet/Untitled.png" alt="drawing" width="300"/>
+
 
 - Architecture: EfficientNet
   
 - ### Model 6
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/DenseNet/Untitled.png)
+
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/DenseNet/Untitled.png" alt="drawing" width="300"/>
+
 
 - Architecture: DenseNet
 
