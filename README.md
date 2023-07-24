@@ -8,7 +8,7 @@ The dataset used for training and testing these models can be found at the follo
 ## Models
 
 ### Model 1
-![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/VGG/Untitled.png)
+![Model 1 Accuracy](https://github.com/zetro-malik/CNN-architectures/blob/master/VGG/Untitled.png){:height="50%" width="50%"}
 
 - Architecture: VGG
 
