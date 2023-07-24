@@ -3,7 +3,7 @@
 This repository contains implementations of various Convolutional Neural Network (CNN) architectures tested on a dataset of vegetables. The dataset consists of 90 images per class for four different vegetable classes: potato, tomato, radish, and cauliflower.
 
 ## Dataset
-The dataset used for training and testing these models can be found at the following link: [Vegetable Dataset](https://www.example.com/vegetable_dataset).
+The dataset used for training and testing these models can be found at the following link: [Vegetable Dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset).
 
 ## Models
 
