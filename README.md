@@ -9,7 +9,7 @@ The dataset used for training and testing these models can be found at the follo
 
 ### Model 1
 
-<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/VGG/Untitled.png" alt="drawing" width="100"/>
+<img src="https://github.com/zetro-malik/CNN-architectures/blob/master/VGG/Untitled.png" alt="drawing" width="300"/>
 
 - Architecture: VGG
 
